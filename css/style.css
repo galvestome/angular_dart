@@ -1,0 +1,12 @@
+.comprado {
+	color: red;
+	text-decoration: line-through;
+}
+
+.titulo {
+	margin-top: 30px;
+}
+
+.tabela-produtos {
+	margin: 30px;
+}
